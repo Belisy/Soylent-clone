@@ -1,11 +1,14 @@
 .main3 {
-
+width: 100%;
+/*height: 576;*/
+color: #505050;
 }
 .main3 .main3_inner {
-
+    padding: 20px;
+display: flex;
 }
 .main3 .main3_inner .container-left {
-
+background-color: bisque;
 }
 .main3 .main3_inner .container-left h4 {
 
@@ -26,8 +29,14 @@
 .main3 .main3_inner .container-left .left-image {
 
 }
-.main3 .main3_inner .container-left .left-image a {
-
+.main3 .main3_inner .container-left .left-image .why-soylent_link1 {
+    border: 2px solid #505050;
+    padding: 15;
+    text-decoration: none;
+    color: #505050;
+}
+.main3 .main3_inner .container-left .left-image .why-soylent_link2 {
+    color: #505050;
 }
 
 
